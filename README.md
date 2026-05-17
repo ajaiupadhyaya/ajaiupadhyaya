@@ -1,11 +1,3 @@
-<!-- GitHub Profile README — Ajai Upadhyaya -->
-
-<div align="left">
-
-<sub>README.md — github profile</sub>
-
----
-
 # AJAI<br>UPADHYAYA
 
 > Lifelong learner. Financial engineer in training.<br>
