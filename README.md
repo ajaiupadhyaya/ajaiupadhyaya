@@ -45,7 +45,7 @@ Algo / Systems        █████████████░░░░░░�
 
 ---
 
-*"**Markets are information.** I build systems that understand both."*
+*"**Markets are information and are inherently monopolistic.** I build systems that understand both."*
 
 ---
 
