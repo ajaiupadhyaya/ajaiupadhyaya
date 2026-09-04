@@ -118,13 +118,6 @@ Exploring how machines perceive and understand the physical world.
 
 ---
 
-## Philosophy
-
-> Most systems fail because they confuse data with understanding.
->
-> My goal is to build systems that do both.
-
----
 
 ## Elsewhere
 
