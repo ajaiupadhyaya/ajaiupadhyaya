@@ -10,6 +10,8 @@ machines, and people.
 ## About
 
 2027 Financial Engineering Graduate 
+
+
 Formerly Computer Science and Economics @ UVA ' 26
 
 My work sits at the intersection of:
